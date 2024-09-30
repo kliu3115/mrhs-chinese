@@ -19,12 +19,12 @@ const ChineseHonorSociety = () => {
                     <td>Luke Jun</td>
                 </tr>
                 <tr>
-                    <td>Co-Publicist</td>
-                    <td>Kelly Liu</td>
+                    <td>Publicist</td>
+                    <td>Michelle Zhang</td>
                 </tr>
                 <tr>
-                    <td>Co-Publicist</td>
-                    <td>Michelle Zhang</td>
+                    <td>Webmaster</td>
+                    <td>Kelly Liu</td>
                 </tr>
             </table>
             <br />
